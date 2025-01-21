@@ -1,12 +1,12 @@
-<h3 align="left">echo ("Hello! My name is Thiago Canato de Azevedo");</h3>
+<h3 align="left">echo ("Olá! Me chamo Thiago Canato de Azevedo");</h3>
 
 ###
 
-<h3 align="left">About me</h3>
+<h3 align="left">Sobre</h3>
 
 ###
 
-<p align="left">- 18 years old<br>- Computer Engineering Student<br>- Enthusiastic about technology <br>- E-mail: thi.canato@gmail.com</p>
+<p align="left">- 18 anos<br>- Estudante de Engenharia da Computação <br>- Entusiasta sobre tecnologia <br>- E-mail: thi.canato@gmail.com</p>
 
 ###
 
