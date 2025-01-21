@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 18 years old<br>- Computer Engineering Student<br>- Enthusiastic about technology, especially development <br>- E-mail: thi.canato@gmail.com</p>
+<p align="left">- 18 years old<br>- Computer Engineering Student<br>- Enthusiastic about technology <br>- E-mail: thi.canato@gmail.com</p>
 
 ###
 
