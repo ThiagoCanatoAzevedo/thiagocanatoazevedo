@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Passionate about technology and software development  <br><br>📚 Computer Engineering student, currently working as a Data Analyst  <br><br>🎯 My goal is to build my own business through technology  <br><br>💡 Always learning and exploring new tools and ideas</p>
+<p align="left">🚀 Passionate about technology and software development  <br><br>📚 Computer Engineering student, currently working as a Developer  <br><br>🎯 My goal is to build my own business through technology  <br><br>💡 Always learning and exploring new tools and ideas</p>
 
 ###
 
